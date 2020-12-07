@@ -19,5 +19,5 @@
 	- TerraformでAWS、GCP、Azureの構成、設定をコード化して、構築した。
 	
 - TravisCIやGitHub ActionsなどでのCI/CD構築経験	
-　　- CircleCIでコード静的分析、テスト、各環境にデプロイした。
-   - GithubActionでTerraform planの結果をgithubのPullRequestに貼り付けた。
+    - CircleCIでコード静的分析、テスト、各環境にデプロイした。
+    - GithubActionでTerraform planの結果をgithubのPullRequestに貼り付けた。
